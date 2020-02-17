@@ -7,7 +7,7 @@ Install requirements using the file `requirements.txt`
 pip install -r requirements.txt
 ```
 
-# Slogan List (www.sloganlist.com)
+# 1. Slogan List (www.sloganlist.com)
 
 Website that tracks list of slogans.
 As of 15 Feb 2020, the website contains more than 1000 pairs of "company, slogan" spread across 10+ categories.
@@ -20,3 +20,7 @@ python slogan_list_scrape.py
 ```
 #### Note
 In case of Status 403 (Forbidden Access), IP will be blocked due to high volume of GET requests. Only way out of it was to wait for a few hours.
+
+##To Do
+# 2. sloganspoint.com
+# 3. thinkslogans.com
