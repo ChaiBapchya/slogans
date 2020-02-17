@@ -24,3 +24,4 @@ In case of Status 403 (Forbidden Access), IP will be blocked due to high volume 
 ##To Do
 # 2. sloganspoint.com
 # 3. thinkslogans.com
+# 4. https://www.brandsandtags.com/101-best-slogans-list.html
