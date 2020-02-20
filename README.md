@@ -22,6 +22,7 @@ python slogan_list_scrape.py
 In case of Status 403 (Forbidden Access), IP will be blocked due to high volume of GET requests. Only way out of it was to wait for a few hours.
 
 ##To Do
-# 2. sloganspoint.com
-# 3. thinkslogans.com
-# 4. https://www.brandsandtags.com/101-best-slogans-list.html
+#### 2. sloganspoint.com
+#### 3. thinkslogans.com
+#### 4. https://www.brandsandtags.com/101-best-slogans-list.html
+#### 5 http://www.textart.ru/database/english-advertising-slogans/beer-advertising-slogans.html
